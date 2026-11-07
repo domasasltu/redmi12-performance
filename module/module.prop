@@ -1,0 +1,6 @@
+id=redmi12_performance
+name=Redmi 12 Performance
+version=1.0.0
+versionCode=100
+author=domasasltu
+description=crDroid 12.12 (2026-09-29) tuning: native resolution, 90 Hz, guarded icon cache, radio retry guard and scoped PowerHAL repair. Disables broken fingerprint support.

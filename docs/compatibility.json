@@ -1,0 +1,13 @@
+{
+  "device": "heat",
+  "distribution": "fire",
+  "api": 36,
+  "incremental": "1790684359",
+  "native_size": "1080x2460",
+  "native_density": 440,
+  "minimum_magisk": 31100,
+  "systemui_apk_sha256": "98ae4e970263ab4b0e1aa5951c928314e4a2950eff962e469d112556d75c5a0f",
+  "telephony_common_sha256": "3eab182c4f76a3dbbe8c22b9d107eeda070f21a9c60e81136f85984b4cce648f",
+  "powerhal_sha256": "bbe236b4869f08d9703448fbe5e3a67539d46e4a014345651b8b99e379e7054d",
+  "build_date_utc": "2026-09-29T12:19:19Z"
+}

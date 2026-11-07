@@ -1,0 +1,4 @@
+# Power service reads DRM mode information; no display-changing ioctls.
+allow mtk_hal_power gpu_device dir search
+allow mtk_hal_power dri_device chr_file { open read write getattr ioctl }
+allowxperm mtk_hal_power dri_device chr_file ioctl { 0x6400 0x640c 0x64a0 0x64a1 0x64a6 0x64a7 0x64b5 }
